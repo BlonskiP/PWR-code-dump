@@ -1,0 +1,10 @@
+cmake_minimum_required(VERSION 3.13)
+project(survival)
+find_package(Curses REQUIRED)
+find_package( Threads )
+include_directories(${CURSES_INCLUDE_DIR})
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(survival main.cpp Creature.cpp Creature.h Room.cpp Room.h ConsoleManager.cpp ConsoleManager.h Kitchen.cpp Kitchen.h Bedroom.cpp Bedroom.h Waitingroom.cpp Waitingroom.h Garden.cpp Garden.h)
+target_link_libraries(survival ${CURSES_LIBRARIES})
+target_link_libraries(survival ${CMAKE_THREAD_LIBS_INIT})

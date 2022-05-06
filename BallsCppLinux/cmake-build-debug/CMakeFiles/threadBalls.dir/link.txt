@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/threadBalls.dir/main.cpp.o CMakeFiles/threadBalls.dir/PrintManager.cpp.o CMakeFiles/threadBalls.dir/Ball.cpp.o CMakeFiles/threadBalls.dir/Map.cpp.o CMakeFiles/threadBalls.dir/CollidingItem.cpp.o CMakeFiles/threadBalls.dir/Wall.cpp.o CMakeFiles/threadBalls.dir/BallTrap.cpp.o  -o threadBalls -lcurses /usr/lib/x86_64-linux-gnu/libform.so -lpthread 

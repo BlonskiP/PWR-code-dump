@@ -1,0 +1,14 @@
+@using Microsoft.AspNetCore.Identity
+
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+
+@if (SignInManager.IsSignedIn(User))
+{
+    <li><a asp-area="" asp-controller="CharactersSheets" asp-action="UsersCharacterSheets">Karty Postaci</a></li>
+    <li><a asp-area="" asp-controller="CharactersSheets" asp-action="Index">Karty Postaci</a></li>
+    <li><a asp-area="" asp-controller="EventsTables" asp-action="Index">Eventy</a></li>
+    <li><a asp-area="" asp-controller="Players" asp-action="Index">Gracze</a></li>
+    <li><a asp-area="" asp-controller="ApiKeys" asp-action="Index">Klucze APi</a></li>
+    <li><a asp-area="" asp-controller="User" asp-action="Index">Userzy</a></li>
+}

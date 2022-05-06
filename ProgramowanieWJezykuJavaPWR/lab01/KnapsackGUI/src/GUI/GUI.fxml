@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.Tab?>
+<?import javafx.scene.control.TabPane?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="GUI.Controller">
+   <children>
+      <TabPane layoutY="25.0" prefHeight="400.0" prefWidth="600.0" tabClosingPolicy="UNAVAILABLE">
+        <tabs>
+          <Tab text="%InstanceProblem">
+            <content>
+              <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                     <children>
+                        <Label layoutX="16.0" layoutY="15.0" text="%ItemName" />
+                        <Label layoutX="14.0" layoutY="45.0" text="%Value" />
+                        <Label layoutX="18.0" layoutY="74.0" text="%Weight" />
+                        <TextField fx:id="itemNameInput" layoutX="85.0" layoutY="11.0" />
+                        <TextField fx:id="itemValueInput" layoutX="85.0" layoutY="41.0" />
+                        <TextField fx:id="itemWeightInput" layoutX="85.0" layoutY="70.0" />
+                        <Button layoutX="300.0" layoutY="180.0" mnemonicParsing="false" onAction="#Solve" text="%Solve" />
+                        <Button layoutX="85.0" layoutY="108.0" mnemonicParsing="false" onAction="#addItem" text="%Add" />
+                        <Button layoutX="492.0" layoutY="180.0" mnemonicParsing="false" text="%Delete" />
+                        <Label layoutX="397.0" layoutY="15.0" text="%ProblemItems" />
+                        <Label layoutX="404.0" layoutY="197.0" text="%Result" />
+                        <ListView fx:id="resultItemList" layoutX="300.0" layoutY="218.0" prefHeight="114.0" prefWidth="274.0" />
+                        <Label fx:id="bagWeight" layoutX="126.0" layoutY="288.0" text="%BagWeight" />
+                        <Label fx:id="bagValue" layoutX="130.0" layoutY="312.0" text="%BagValue" />
+                        <ListView fx:id="itemList" layoutX="302.0" layoutY="38.0" prefHeight="114.0" prefWidth="274.0" />
+                        <ComboBox fx:id="comboBox" layoutX="10.0" layoutY="193.0" prefWidth="150.0" promptText="%ChooseAlg" />
+                        <Label layoutX="20.0" layoutY="172.0" text="%Algorithm" />
+                        <TextField fx:id="maxCapacityInput" layoutX="11.0" layoutY="235.0" />
+                        <Label layoutX="167.0" layoutY="239.0" text="%maxCapacity" />
+                     </children></AnchorPane>
+            </content>
+          </Tab>
+          <Tab text="Settings">
+            <content>
+              <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                     <children>
+                        <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="369.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../res/Money-bag-icon.png" />
+                           </image>
+                        </ImageView>
+                        <Button layoutX="14.0" layoutY="50.0" mnemonicParsing="false" onAction="#ChangeLanguage" text="%ChangeLanguage" />
+                        <ComboBox fx:id="ChangeLanguageCombo" layoutX="14.0" layoutY="14.0" prefWidth="150.0" />
+                        <Label fx:id="todayDate" layoutX="14.0" layoutY="89.0" text="Today" />
+                     </children></AnchorPane>
+            </content>
+          </Tab>
+        </tabs>
+      </TabPane>
+      <MenuBar layoutY="2.0" prefHeight="25.0" prefWidth="600.0">
+        <menus>
+          <Menu mnemonicParsing="false" text="Help">
+            <items>
+              <MenuItem mnemonicParsing="false" onAction="#About" text="About" />
+            </items>
+          </Menu>
+        </menus>
+      </MenuBar>
+   </children>
+</AnchorPane>

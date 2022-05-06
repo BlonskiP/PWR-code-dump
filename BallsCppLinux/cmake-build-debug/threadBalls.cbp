@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="threadBalls"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/wilk/Desktop/repos/threadBalls/BallsCppLinux/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/wilk/Desktop/repos/threadBalls/BallsCppLinux/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/wilk/Desktop/repos/threadBalls/BallsCppLinux/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/wilk/Desktop/repos/threadBalls/BallsCppLinux/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/wilk/Desktop/repos/threadBalls/BallsCppLinux/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/wilk/Desktop/repos/threadBalls/BallsCppLinux/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/wilk/Desktop/repos/threadBalls/BallsCppLinux/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/wilk/Desktop/repos/threadBalls/BallsCppLinux/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/wilk/Desktop/repos/threadBalls/BallsCppLinux/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/wilk/Desktop/repos/threadBalls/BallsCppLinux/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="threadBalls">
+				<Option output="/home/wilk/Desktop/repos/threadBalls/BallsCppLinux/cmake-build-debug/threadBalls" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/wilk/Desktop/repos/threadBalls/BallsCppLinux/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/wilk/Desktop/repos/threadBalls/BallsCppLinux/cmake-build-debug/Makefile&quot;  VERBOSE=1 threadBalls"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/wilk/Desktop/repos/threadBalls/BallsCppLinux/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/wilk/Desktop/repos/threadBalls/BallsCppLinux/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/wilk/Desktop/repos/threadBalls/BallsCppLinux/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="threadBalls/fast">
+				<Option output="/home/wilk/Desktop/repos/threadBalls/BallsCppLinux/cmake-build-debug/threadBalls" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/wilk/Desktop/repos/threadBalls/BallsCppLinux/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/wilk/Desktop/repos/threadBalls/BallsCppLinux/cmake-build-debug/Makefile&quot;  VERBOSE=1 threadBalls/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/wilk/Desktop/repos/threadBalls/BallsCppLinux/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/wilk/Desktop/repos/threadBalls/BallsCppLinux/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/wilk/Desktop/repos/threadBalls/BallsCppLinux/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/wilk/Desktop/repos/threadBalls/BallsCppLinux/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/wilk/Desktop/repos/threadBalls/BallsCppLinux/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/wilk/Desktop/repos/threadBalls/BallsCppLinux/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/wilk/Desktop/repos/threadBalls/BallsCppLinux/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/wilk/Desktop/repos/threadBalls/BallsCppLinux/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/wilk/Desktop/repos/threadBalls/BallsCppLinux/Ball.cpp">
+			<Option target="threadBalls"/>
+		</Unit>
+		<Unit filename="/home/wilk/Desktop/repos/threadBalls/BallsCppLinux/Ball.h">
+			<Option target="threadBalls"/>
+		</Unit>
+		<Unit filename="/home/wilk/Desktop/repos/threadBalls/BallsCppLinux/BallTrap.cpp">
+			<Option target="threadBalls"/>
+		</Unit>
+		<Unit filename="/home/wilk/Desktop/repos/threadBalls/BallsCppLinux/BallTrap.h">
+			<Option target="threadBalls"/>
+		</Unit>
+		<Unit filename="/home/wilk/Desktop/repos/threadBalls/BallsCppLinux/CollidingItem.cpp">
+			<Option target="threadBalls"/>
+		</Unit>
+		<Unit filename="/home/wilk/Desktop/repos/threadBalls/BallsCppLinux/CollidingItem.h">
+			<Option target="threadBalls"/>
+		</Unit>
+		<Unit filename="/home/wilk/Desktop/repos/threadBalls/BallsCppLinux/Map.cpp">
+			<Option target="threadBalls"/>
+		</Unit>
+		<Unit filename="/home/wilk/Desktop/repos/threadBalls/BallsCppLinux/Map.h">
+			<Option target="threadBalls"/>
+		</Unit>
+		<Unit filename="/home/wilk/Desktop/repos/threadBalls/BallsCppLinux/PrintManager.cpp">
+			<Option target="threadBalls"/>
+		</Unit>
+		<Unit filename="/home/wilk/Desktop/repos/threadBalls/BallsCppLinux/PrintManager.h">
+			<Option target="threadBalls"/>
+		</Unit>
+		<Unit filename="/home/wilk/Desktop/repos/threadBalls/BallsCppLinux/Wall.cpp">
+			<Option target="threadBalls"/>
+		</Unit>
+		<Unit filename="/home/wilk/Desktop/repos/threadBalls/BallsCppLinux/Wall.h">
+			<Option target="threadBalls"/>
+		</Unit>
+		<Unit filename="/home/wilk/Desktop/repos/threadBalls/BallsCppLinux/main.cpp">
+			<Option target="threadBalls"/>
+		</Unit>
+		<Unit filename="/home/wilk/Desktop/repos/threadBalls/BallsCppLinux/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

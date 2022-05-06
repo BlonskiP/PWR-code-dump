@@ -1,0 +1,1 @@
+Inżynieria Oprogramowania Laboratorium - kurs pwr. Należało stworzyć w javie encje i metody dla programu hotelarskiego, testy w selenium itp. Wszystko wcześniej wymodelować z użyciem UML w visual paradigm

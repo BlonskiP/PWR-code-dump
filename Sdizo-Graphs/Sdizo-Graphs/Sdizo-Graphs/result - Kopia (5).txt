@@ -1,0 +1,299 @@
+Lista sasiedzctwa
+W :10E :22 gestosc: 24%
+Kruskal: 0.0741391[ms]
+Prim: 0.032467[ms] 
+Dijkstra: 0.0198026[ms]
+Bellman-Ford: 0.0678312[ms]
+
+
+
+Lista sasiedzctwa
+W :25E :150 gestosc: 25%
+Kruskal: 1.0759[ms]
+Prim: 0.255648[ms] 
+Dijkstra: 0.122694[ms]
+Bellman-Ford: 0.682029[ms]
+
+
+
+Lista sasiedzctwa
+W :50E :612 gestosc: 25%
+Kruskal: 13.4608[ms]
+Prim: 1.33577[ms] 
+Dijkstra: 0.647319[ms]
+Bellman-Ford: 4.35233[ms]
+
+
+
+Lista sasiedzctwa
+W :75E :1387 gestosc: 25%
+Kruskal: 65.0304[ms]
+Prim: 3.58076[ms] 
+Dijkstra: 1.74292[ms]
+Bellman-Ford: 12.7088[ms]
+
+
+
+Lista sasiedzctwa
+W :100E :2475 gestosc: 25%
+Kruskal: 209.475[ms]
+Prim: 7.39386[ms] 
+Dijkstra: 3.6607[ms]
+Bellman-Ford: 27.106[ms]
+
+
+
+Lista sasiedzctwa
+W :10E :45 gestosc: 50%
+Kruskal: 0.165712[ms]
+Prim: 0.069755[ms] 
+Dijkstra: 0.0356657[ms]
+Bellman-Ford: 0.149946[ms]
+
+
+
+Lista sasiedzctwa
+W :25E :300 gestosc: 50%
+Kruskal: 3.61416[ms]
+Prim: 0.613334[ms] 
+Dijkstra: 0.296247[ms]
+Bellman-Ford: 1.75328[ms]
+
+
+
+Lista sasiedzctwa
+W :50E :1225 gestosc: 50%
+Kruskal: 54.6511[ms]
+Prim: 3.4003[ms] 
+Dijkstra: 1.61584[ms]
+Bellman-Ford: 10.9139[ms]
+
+
+
+Lista sasiedzctwa
+W :75E :2775 gestosc: 50%
+Kruskal: 270.968[ms]
+Prim: 9.75151[ms] 
+Dijkstra: 4.57275[ms]
+Bellman-Ford: 32.1974[ms]
+
+
+
+Lista sasiedzctwa
+W :100E :4950 gestosc: 50%
+Kruskal: 848.279[ms]
+Prim: 20.6578[ms] 
+Dijkstra: 9.3927[ms]
+Bellman-Ford: 69.5038[ms]
+
+
+
+Lista sasiedzctwa
+W :10E :67 gestosc: 74%
+Kruskal: 0.29488[ms]
+Prim: 0.110441[ms] 
+Dijkstra: 0.0567687[ms]
+Bellman-Ford: 0.270832[ms]
+
+
+
+Lista sasiedzctwa
+W :25E :450 gestosc: 75%
+Kruskal: 7.92978[ms]
+Prim: 1.04595[ms] 
+Dijkstra: 0.506128[ms]
+Bellman-Ford: 2.99799[ms]
+
+
+
+Lista sasiedzctwa
+W :50E :1837 gestosc: 75%
+Kruskal: 130.789[ms]
+Prim: 6.33164[ms] 
+Dijkstra: 2.83757[ms]
+Bellman-Ford: 18.6193[ms]
+
+
+
+Lista sasiedzctwa
+W :75E :4162 gestosc: 75%
+Kruskal: 612.443[ms]
+Prim: 18.2064[ms] 
+Dijkstra: 7.83556[ms]
+Bellman-Ford: 53.7767[ms]
+
+
+
+Lista sasiedzctwa
+W :100E :7425 gestosc: 75%
+Kruskal: 1888.36[ms]
+Prim: 39.1453[ms] 
+Dijkstra: 16.3206[ms]
+Bellman-Ford: 119.749[ms]
+
+
+
+Lista sasiedzctwa
+W :10E :89 gestosc: 99%
+Kruskal: 0.468436[ms]
+Prim: 0.152908[ms] 
+Dijkstra: 0.0779586[ms]
+Bellman-Ford: 0.367831[ms]
+
+
+
+Lista sasiedzctwa
+W :25E :594 gestosc: 99%
+Kruskal: 13.4596[ms]
+Prim: 1.5541[ms] 
+Dijkstra: 0.749293[ms]
+Bellman-Ford: 4.24395[ms]
+
+
+
+Lista sasiedzctwa
+W :50E :2425 gestosc: 99%
+Kruskal: 220.36[ms]
+Prim: 9.47134[ms] 
+Dijkstra: 4.14468[ms]
+Bellman-Ford: 27.0869[ms]
+
+
+
+Lista sasiedzctwa
+W :75E :5494 gestosc: 99%
+Kruskal: 1078.18[ms]
+Prim: 28.504[ms] 
+Dijkstra: 11.7977[ms]
+Bellman-Ford: 81.4491[ms]
+
+
+
+Lista sasiedzctwa
+W :100E :9801 gestosc: 99%
+Kruskal: 3287.9[ms]
+Prim: 61.9025[ms] 
+Dijkstra: 24.6907[ms]
+Bellman-Ford: 174.632[ms]
+
+
+
+Macierz incydencji
+W :10E :22 gestosc: 24%
+Kruskal: 0.0724682[ms]
+Prim: 0.0352288[ms] 
+Dijkstra: 0.0203877[ms]
+Bellman-Ford: 0.0731171[ms]
+
+
+
+Macierz incydencji
+W :25E :150 gestosc: 25%
+Kruskal: 1.10137[ms]
+Prim: 0.274056[ms] 
+Dijkstra: 0.127247[ms]
+Bellman-Ford: 0.703109[ms]
+
+
+
+Macierz incydencji
+W :50E :612 gestosc: 25%
+Kruskal: 13.8215[ms]
+Prim: 1.39043[ms] 
+Dijkstra: 0.648701[ms]
+Bellman-Ford: 4.40466[ms]
+
+
+
+Macierz incydencji
+W :75E :1387 gestosc: 25%
+Kruskal: 71.0441[ms]
+Prim: 3.63755[ms] 
+Dijkstra: 1.88056[ms]
+Bellman-Ford: 12.5982[ms]
+
+
+
+Macierz incydencji
+W :100E :2475 gestosc: 25%
+Kruskal: 227.935[ms]
+Prim: 7.44933[ms] 
+Dijkstra: 3.70447[ms]
+Bellman-Ford: 27.5792[ms]
+
+
+
+Macierz incydencji
+W :10E :45 gestosc: 50%
+Kruskal: 0.163326[ms]
+Prim: 0.0685312[ms] 
+Dijkstra: 0.0363733[ms]
+Bellman-Ford: 0.155462[ms]
+
+
+
+Macierz incydencji
+W :25E :300 gestosc: 50%
+Kruskal: 3.67716[ms]
+Prim: 0.609681[ms] 
+Dijkstra: 0.293904[ms]
+Bellman-Ford: 1.72719[ms]
+
+
+
+Macierz incydencji
+W :50E :1225 gestosc: 50%
+Kruskal: 56.3592[ms]
+Prim: 3.4445[ms] 
+Dijkstra: 1.67284[ms]
+Bellman-Ford: 10.6935[ms]
+
+
+
+Macierz incydencji
+W :75E :2775 gestosc: 50%
+Kruskal: 280.072[ms]
+Prim: 9.80144[ms] 
+Dijkstra: 4.56398[ms]
+Bellman-Ford: 32.1598[ms]
+
+
+
+Macierz incydencji
+W :100E :4950 gestosc: 50%
+Kruskal: 869.459[ms]
+Prim: 20.5296[ms] 
+Dijkstra: 9.25858[ms]
+Bellman-Ford: 68.0515[ms]
+
+
+
+Macierz incydencji
+W :10E :67 gestosc: 74%
+Kruskal: 0.295718[ms]
+Prim: 0.108783[ms] 
+Dijkstra: 0.0560099[ms]
+Bellman-Ford: 0.261964[ms]
+
+
+
+Macierz incydencji
+W :25E :450 gestosc: 75%
+Kruskal: 8.23147[ms]
+Prim: 1.04573[ms] 
+Dijkstra: 0.516449[ms]
+Bellman-Ford: 2.98359[ms]
+
+
+
+Macierz incydencji
+W :50E :1837 gestosc: 75%
+Kruskal: 128.858[ms]
+Prim: 6.18267[ms] 
+Dijkstra: 2.80645[ms]
+Bellman-Ford: 18.2488[ms]
+
+
+
+Macierz incydencji
+W :75E :4162 gestosc: 75%

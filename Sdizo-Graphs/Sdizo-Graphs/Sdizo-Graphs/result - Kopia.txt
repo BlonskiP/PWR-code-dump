@@ -1,0 +1,128 @@
+Lista sasiedzctwa
+W :10E :22 gestosc: 24%
+Kruskal: 0.0741391[ms]
+Prim: 0.032467[ms] 
+Dijkstra: 0.0198026[ms]
+Bellman-Ford: 0.0678312[ms]
+
+
+
+Lista sasiedzctwa
+W :25E :150 gestosc: 25%
+Kruskal: 1.0759[ms]
+Prim: 0.255648[ms] 
+Dijkstra: 0.122694[ms]
+Bellman-Ford: 0.682029[ms]
+
+
+
+Lista sasiedzctwa
+W :50E :612 gestosc: 25%
+Kruskal: 13.4608[ms]
+Prim: 1.33577[ms] 
+Dijkstra: 0.647319[ms]
+Bellman-Ford: 4.35233[ms]
+
+
+
+Lista sasiedzctwa
+W :75E :1387 gestosc: 25%
+Kruskal: 65.0304[ms]
+Prim: 3.58076[ms] 
+Dijkstra: 1.74292[ms]
+Bellman-Ford: 12.7088[ms]
+
+
+
+Lista sasiedzctwa
+W :100E :2475 gestosc: 25%
+Kruskal: 209.475[ms]
+Prim: 7.39386[ms] 
+Dijkstra: 3.6607[ms]
+Bellman-Ford: 27.106[ms]
+
+
+
+Lista sasiedzctwa
+W :10E :45 gestosc: 50%
+Kruskal: 0.165712[ms]
+Prim: 0.069755[ms] 
+Dijkstra: 0.0356657[ms]
+Bellman-Ford: 0.149946[ms]
+
+
+
+Lista sasiedzctwa
+W :25E :300 gestosc: 50%
+Kruskal: 3.61416[ms]
+Prim: 0.613334[ms] 
+Dijkstra: 0.296247[ms]
+Bellman-Ford: 1.75328[ms]
+
+
+
+Lista sasiedzctwa
+W :50E :1225 gestosc: 50%
+Kruskal: 54.6511[ms]
+Prim: 3.4003[ms] 
+Dijkstra: 1.61584[ms]
+Bellman-Ford: 10.9139[ms]
+
+
+
+Lista sasiedzctwa
+W :75E :2775 gestosc: 50%
+Kruskal: 270.968[ms]
+Prim: 9.75151[ms] 
+Dijkstra: 4.57275[ms]
+Bellman-Ford: 32.1974[ms]
+
+
+
+Lista sasiedzctwa
+W :100E :4950 gestosc: 50%
+Kruskal: 848.279[ms]
+Prim: 20.6578[ms] 
+Dijkstra: 9.3927[ms]
+Bellman-Ford: 69.5038[ms]
+
+
+
+Lista sasiedzctwa
+W :10E :67 gestosc: 74%
+Kruskal: 0.29488[ms]
+Prim: 0.110441[ms] 
+Dijkstra: 0.0567687[ms]
+Bellman-Ford: 0.270832[ms]
+
+
+
+Lista sasiedzctwa
+W :25E :450 gestosc: 75%
+Kruskal: 7.92978[ms]
+Prim: 1.04595[ms] 
+Dijkstra: 0.506128[ms]
+Bellman-Ford: 2.99799[ms]
+
+
+
+Lista sasiedzctwa
+W :50E :1837 gestosc: 75%
+Kruskal: 130.789[ms]
+Prim: 6.33164[ms] 
+Dijkstra: 2.83757[ms]
+Bellman-Ford: 18.6193[ms]
+
+
+
+Lista sasiedzctwa
+W :75E :4162 gestosc: 75%
+Kruskal: 612.443[ms]
+Prim: 18.2064[ms] 
+Dijkstra: 7.83556[ms]
+Bellman-Ford: 53.7767[ms]
+
+
+
+Lista sasiedzctwa
+W :100E :7425 gestosc: 75%

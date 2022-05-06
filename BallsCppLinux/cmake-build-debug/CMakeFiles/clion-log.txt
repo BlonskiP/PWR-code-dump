@@ -1,0 +1,4 @@
+/home/wilk/Desktop/repos/clion-2018.3.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/wilk/Desktop/repos/threadBalls/BallsCppLinux
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/wilk/Desktop/repos/threadBalls/BallsCppLinux/cmake-build-debug
